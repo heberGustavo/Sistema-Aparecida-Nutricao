@@ -1,4 +1,4 @@
-# Sistema-Aparecida-Nutricao
+# Sistema Aparecida Nutrição
 
 Sistema usando JavaScript puro em um sistema para cadastro e exclusão de pacientes. 
 Foi implementado um botão de buscar pacientes onde faz uma requisição do servidor e preenche os dados na tabela. 
